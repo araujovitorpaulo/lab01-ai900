@@ -7,5 +7,5 @@ A ideia é trabalhar com um algoritmo que possui os dados históricos dos alugu�
 
 Com a nova tarefa finalizada, devemos esperar um pouco para que ela finalize o treinamento. É dito que o processo pode levar <b> até 30min</b>.
 
-![Visão geral da Tarefa](assets\images\visao-geral.png)
+![Visão geral da Tarefa](assets/images/visao-geral.png)
 
