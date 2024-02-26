@@ -5,7 +5,7 @@ O primeiro contato com a Azure ML está sendo assistido pelo [AI Fundamentals](h
 
 A ideia é trabalhar com um algoritmo que possui os dados históricos dos aluguéis de bicicletas disponibilizado pela empresa Capital Bikeshare.
 
-Com a nova tarefa finalizada, devemos esperar um pouco para que ela finalize o treinamento. É dito que o processo pode levar <b> até 30min</b>.
+Com a nova tarefa finalizada, devemos esperar para que ela finalize o treinamento. É dito que o processo pode levar <b> até 30min</b>.
 
 ![Visão geral da Tarefa](assets/images/visao-geral.png)
 
