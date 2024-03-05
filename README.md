@@ -3,7 +3,7 @@
 
 Resolução do laboratório 01 (Machine Learning) da série mslearn-ai-fundamentals, da Microsoft. Para mais informações, acesse o [repositório oficial](https://github.com/MicrosoftLearning/mslearn-ai-fundamentals/blob/main/Instructions/Labs).
 
-A proopsta é utilizar um conjunto de dados com o histórico dos aluguéis de bicicletas disponibilizado pela empresa [Capital Bikeshare](https://capitalbikeshare.com/system-data). Ele traz uma série de informações como: estação do ano, umidade, velocidade do vento etc. 
+A proposta é utilizar um conjunto de dados com o histórico dos aluguéis de bicicletas disponibilizado pela empresa [Capital Bikeshare](https://capitalbikeshare.com/system-data). Ele traz uma série de informações como: estação do ano, umidade, velocidade do vento etc. 
 
 <b> Vale lembrar:</b> O portal Azure não é gratuito mas, se for um novo usuário e fizer o cadastro, você tem direito à $200.00 de crédito (aproximadamente R$1.000,00) que podem ser usados até 30 dias depois do primeiro acesso. Mais informações em, acesse o [link](https://azure.microsoft.com/pt-br/free/?ranMID=43674&ranEAID=FE4O7wtxe6g&ranSiteID=FE4O7wtxe6g-bXR9k5H9WPMkm4QPyFlZFg&epi=FE4O7wtxe6g-bXR9k5H9WPMkm4QPyFlZFg&irgwc=1&OCID=AIDcmm549zy227_aff_7795_1243925&tduid=%28ir__rhkz9nfvokkfdybzxvzxnrh3im2x96ijdmfthl2z00%29%287795%29%281243925%29%28FE4O7wtxe6g-bXR9k5H9WPMkm4QPyFlZFg%29%28%29&irclickid=_rhkz9nfvokkfdybzxvzxnrh3im2x96ijdmfthl2z00).
 
